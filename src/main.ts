@@ -7,6 +7,9 @@ import './topics/01-types.ts'
 import './topics/02-interfaces.ts'
 import './topics/03-funciones.ts'
 import './topics/04-interfaces.ts'
+import './topics/05-desestructuracion.ts'
+import './topics/06-desArgumentos.ts'
+import './topics/08-clasesBases.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
