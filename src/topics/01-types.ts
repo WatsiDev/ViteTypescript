@@ -1,3 +1,5 @@
+console.log('--------Types--------')
+
 const name: string='Jair';
 let edad: number= 22;
 let peso:number | string = 70;

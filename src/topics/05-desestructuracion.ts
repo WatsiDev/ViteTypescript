@@ -30,6 +30,8 @@ const audio: Audio={
 const{nivelVolumen:volumen, detalles} = audio;
 const{año, autor}=detalles;
 
+console.log('--------Desestructuracion--------')
+
 console.log('Volumen con desestructuracion ', volumen);
 console.log('Sonido ', audio.sonido);
 console.log('Duracion ', audio.duracion);

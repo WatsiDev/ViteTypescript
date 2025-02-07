@@ -33,4 +33,6 @@ export interface Producto{
     impuesto: 0.15,
     productos: [telefono, tableta]
    }
+   
+   console.log('--------DesArgumentos--------')
    console.log(calcularCompra(compra));

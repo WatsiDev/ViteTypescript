@@ -38,4 +38,5 @@ class Persona{
  const ObjPer=new Persona('anita', ' CDMX', 13);
  const ana2=new SuperHero('An',23,'Anita',ObjPer);
 
+ console.log('--------ClasesBses--------')
  console.log(ana2);

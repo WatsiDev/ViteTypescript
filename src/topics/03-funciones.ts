@@ -1,3 +1,5 @@
+console.log('--------Funciones--------')
+
 function addnumeros(a:number, b:number):number {
     return a+b;
 }

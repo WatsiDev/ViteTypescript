@@ -16,5 +16,6 @@ const[total,imptotal ]= calcularCompra({
     impuesto:0.15
 });
 
+console.log('--------Import Export---------')
 console.log('Total', total);
 console.log('Impuesto', imptotal)

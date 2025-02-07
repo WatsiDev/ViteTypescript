@@ -50,4 +50,6 @@ const superHeroe: SuperHero={
 }
 
 const adress = superHeroe.showAdress();
+
+console.log('--------interfaces--------')
 console.log(adress);

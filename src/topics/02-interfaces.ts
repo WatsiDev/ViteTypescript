@@ -1,3 +1,5 @@
+console.log('--------Interfaces--------')
+
 let datos: string[]=['nombre', 'apellidoP', 'apellidoM'];
 const masDatos: string[]=['nombre', 'apellidoP', 'apellidoM'];
 
